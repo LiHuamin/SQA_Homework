@@ -1,0 +1,51 @@
+Enable the customers to: 
+ View a list of all shows currently running in all movie theatre 
+ Enable the user to check if tickets are available for a particular show in a particular theatre  The status of all shows running in the next seven days should be available  Show a list of all movie that are about to be shown in the next week  Enable user to book tickets for the currently running movies  All booking transactions will be done using credit cards 
+ The customer can collect the tickets at the ticket counter just before the commencement of 
+the show 
+Enable the managers to :  
+ Enter details about the various movies being shown in the various theatre  Track the booking status  
+Sales of tickets at the counters can be regulated accordingly 
+
+
+
+ 
+
+
+The details of the tickets sold at the counters will also be entered to up date the booking 
+status 
+Create reports on ticket sales statistics as MS Word documents   Send these reports to the management via email Test objectives 
+To ensure that the application meets or exceeds customer exceptions.  To ensure that all required functions operate appropriately 
+To ensure that the system meets performance security and reliability requirements.  To ensure that the users can access the website by using all the common browsers  To ensure that the users can access the application from various platforms. 
+Scope of Test 
+Features to be Tested  
+Whether or not the customers are able to register on the website  Whether or not the customers are able to edit their information 
+Whether or not the customers are able to view the details of all accounts hold with booking 
+system. 
+Whether or not the customer are able to booking tickets online  Whether or not the customer are able to check the book status online 
+Whether or not the customer are able to view the movie been shown next week  Whether or not the customer are able to pay by credit card  Whether or not the administrator is able to create users  Whether or not the administrator is able to manage users  Whether or not the administrator is able to modify users 
+Component 
+Whether or not the online customer service feature works as required 
+Whether or not the users are able to access the application by using a variety of common 
+browsers 
+Whether or not the users are able to access the application from various platforms  Whether or not all the users are able to change their passwords 
+
+
+
+ 
+
+
+ Whether or not the transactions are secure 
+ Whether or not the performance requirements are met   
+Plan 
+System test object is to verify the functionality and performance of software, and other characteristics consistent with the requirements of the user, mainly the following types of tests:  user interface testing: test the user interface with navigation, aesthetics, industry or company 
+specifications, meets the design requirements of executive function. 
+ Performance Test: Test the appropriate time, the efficiency of transaction processing and 
+other time-sensitive issues. 
+ strength test: Test resources (memory, hard disk) sensitive issue.  Capacity Test: Test the large amounts of data on the system. 
+ fault-tolerant Test: Test software system to overcome the ability of the software, hardware 
+failure. 
+ security testing: Testing software system the illegal intrusion prevention capabilities.  Configuration Test: Test conditions of different hardware and software configurations of the 
+different networks, servers, workstations, software systems. 
+ Installation: Make sure that the software system installed in all possible circumstances and 
+once installed must ensure the correct operation of the quality
