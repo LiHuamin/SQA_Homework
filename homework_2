@@ -1,0 +1,12 @@
+The first part is mainly about the handling of defects. Processing defects should be divided into the following steps:
+find defects, defect classification, to take a different approach to treatment based on defect categories, finally, 
+I think is the teacher emphasised in class: Tracking defects after treatment. I think the last step for the domestic 
+software companies may have little to do or not do this. This is a very important step, we need to pay more  attention.
+
+The second part of the study is the quality improvement paradigm. Theorys in the book is the quality of management 
+theory  which is summarized in the overall guidance of the problem. Facing the real problems, we need to make different 
+solutions based on different situations.
+
+The third part introduces the relevant techniques of test. Courses at the university  have studied the relevant 
+knowledges.Graduate courses (such as poject management,sortware engineering) have repeatedly referred to the testing 
+technology.We can see that test play a very important role in SQA.
